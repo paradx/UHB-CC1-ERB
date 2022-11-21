@@ -5,13 +5,12 @@ Instructor: Rebekah Esmaili (bekah@umd.edu)
 Goal: To lean how to read, display, and interpret satellite data, such as the [Shortwave Radiation Budget](https://www.star.nesdis.noaa.gov/goesr/product_sw.php), using Python!
 
 ---
-# Running this tutorail
+# Running this tutorial
 
 You do not need Python installed to work through this example. Click:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NUCAPS/SBC-demo/HEAD)
 
 ---
-
 ## Learning Resources
 
 * [Project Pythia](https://projectpythia.org/) has some great resources for learning Python
