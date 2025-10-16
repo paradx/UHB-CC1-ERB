@@ -1,6 +1,6 @@
 # Visualizing Earth's Radiation Budget using NOAA Satellite Data
 
-Instructor: Rebekah Esmaili (bekah@umd.edu)
+Instructor: Linus Andrae (landrae@iup.physik.uni-bremen.de)
 
 Goal: To lean how to read, display, and interpret satellite data, such as the [Shortwave Radiation Budget](https://www.star.nesdis.noaa.gov/goesr/product_sw.php), using Python!
 
@@ -8,15 +8,21 @@ Goal: To lean how to read, display, and interpret satellite data, such as the [S
 # Running this tutorial
 
 Recommended:
+You can run this code on the Uni Bremen Jupyter Notebook Server:
+1. Go to jupyter.uni-bremen.de and login with your student credentials
+2. Create a new Folder for the Climate Change 1 Module
+3. Click on the Git Symbol (3rd from the top) in the left side bar
+4. Select "Clone a Repository"
+5. Enter: https://github.com/paradx/UHB-CC1-ERB and select "Clone"
+6. Start with the Lesson.ipynb
+7. Complete the assignment.ipynb
+8. Upload your results to studip as a PDF(!) file.
+   - Wrong formats (notebooks or word docs, etc.) will not be counted.
+   - Name your File NAME_Assignment_CC1.pdf
+   - Don't copy Results
+   - Don't let ChatGPT (or any other LLM) do the work for you, if I have the feeling this is the case I might want to do a pair programming session with you 
 
-You do not need Python installed to work through this example. Click:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/UMD-ERB-tutorial/HEAD)
-
-
-Need help with Binder? Video tutorial on [YouTube](https://youtu.be/3BrfFe4HsAw).
-
-
-If you really want to run on your own computer:
+If you really want to run the code on your own computer:
 
 * If you wish to run the examples locally, I recommend installing [Anaconda](https://www.anaconda.com/products/individual). If you are having trouble with your installation, contact the instructor before the course or use binder.
 * Need help installing Anaconda? Video tutorial on [YouTube](https://youtu.be/zxSQCXXvOIM).
@@ -44,7 +50,7 @@ If you really want to run on your own computer:
   Then, switch to the new environment (conda activate python-workshop) once the installation is complete.
 
 I *do not* recommend:
-* Using Python on a remote server for this tutorial (I cannot help troubleshoot)
+* Using Python on your device or a non uni jupyter server for this tutorial (I cannot /will not help troubleshoot)
 * Using your operating system's Python or a shared Python installations unless you are advanced!
 
 ---
@@ -55,4 +61,4 @@ I *do not* recommend:
 * I have a longer workshop, [Python for Earth Sciences with Rebekah](https://youtu.be/OjX1nDIWDh0), that was presented at the AGU 2022 Fall Meeting that is more beginner focused.
 * Register for the short course at the [2023 AMS Annual Meeting](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses1/making-beautiful-images-of-noaa-satellite-data-using-python/
 )! Virtual and in-person options available.
-* Read my eBook [Earth observation using Python : a practical programming guide](https://umaryland.on.worldcat.org/oclc/1240265984) which is available for free from the UMD library.
+* Read this eBook about the topic [Earth observation using Python : a practical programming guide](https://umaryland.on.worldcat.org/oclc/1240265984) which is available for free from the UMD library.
